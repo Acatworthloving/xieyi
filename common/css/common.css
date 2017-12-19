@@ -1,0 +1,22 @@
+body {
+    background: #fff;
+    font-family: 'Open Sans', sans-serif;
+    color: #4e4e4e;
+    line-height: 22px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    color: #08292b;
+}
+/* a {
+    color: #ddd;
+    -webkit-transition: color 300ms, background-color 300ms;
+    -moz-transition: color 300ms, background-color 300ms;
+    -o-transition: color 300ms, background-color 300ms;
+    transition: color 300ms, background-color 300ms;
+} */
+section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}

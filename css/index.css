@@ -1,0 +1,82 @@
+.home{
+	background: url("../img/beijing.jpg") center center no-repeat;
+	background-size: 100% 100%;
+	height: 862px;
+	line-height: 862px;
+	text-align: center;
+}
+.brand{
+	background: url("../img/brand.jpg") center center no-repeat;
+	background-size: 100% 100%;
+	height: 728px;
+	padding: 115px 65px;
+}
+.subtitle{
+	text-align: center;
+	margin-bottom: 73px;
+	font-size: 16.67px;
+    font-family: '微软雅黑';
+	color: #c6c6c6;
+	width: 100%;
+	height: 20px;
+}
+.subtitle img{
+	margin: 0 30px
+}
+.brand table{
+	border-collapse:collapse;
+	margin: 0 auto;
+}
+.brand td{
+	position: relative;
+	float: left;
+	width: 405px;
+	height: 188px;
+	border: 25px solid rgba(200,200,200,0);
+}
+.brand td span{
+	position: absolute;
+    font-size: 16.49px;
+    font-family: '微软雅黑';
+    bottom: 13px;
+    left: 20px;
+    text-align: left;
+}
+.brand td p{
+	font-size: 9.9px;
+    font-family: '黑体';
+	position: absolute;
+	left: 20px;
+    bottom: -25px;
+}
+.brand .echelon{
+	width: 250px;
+	height: 163px;
+}
+.brand .echelon:hover{
+	background: url("../img/yellow.png") no-repeat;
+}
+.brand tr p:hover{
+	color: #fff;
+}
+.brand tr span:hover{
+	color: #fff;
+}
+.brand .brand1{
+	background: url("../img/brand-img1.jpg") no-repeat;;
+}
+.brand .brand2{
+	background: url("../img/brand-img2.jpg") no-repeat;;
+}
+.brand .brand3{
+	background: url("../img/brand-img3.jpg") no-repeat;;
+}
+.brand .brand4{
+	background: url("../img/brand-img4.jpg") no-repeat;;
+}
+.brand .brand5{
+	background: url("../img/brand-img5.jpg") no-repeat;;
+}
+.brand .brand6{
+	background: url("../img/brand-img6.jpg") no-repeat;;
+}
